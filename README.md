@@ -62,3 +62,6 @@ The board after applying DFS. The returned value is 1 and the final state of the
 ![image](https://github.com/user-attachments/assets/265ee5e0-4619-4aa6-957e-87e2503aec8d)
 
 ![image](https://github.com/user-attachments/assets/b9313fd5-ce34-457c-9569-7c148a92b1a5)
+
+![image](https://github.com/user-attachments/assets/6e11000f-b10c-442a-bc44-0626199a60d7)
+
